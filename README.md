@@ -8,4 +8,4 @@ Open command line and Install Python Flask with the command: `pip install flask`
 Install Flask-MySQLdb with the command: `pip install flask-mysqldb`
 
 ## Tutorial
-[title](https://codeshack.io/login-system-python-flask-mysql/)
+[Login System with Python Flask and MySQL](https://codeshack.io/login-system-python-flask-mysql/)
